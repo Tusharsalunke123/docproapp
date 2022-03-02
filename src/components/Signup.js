@@ -27,7 +27,7 @@ export default function Signup() {
                             <div className='col-sm-5 col-md-5 col-lg-5'>
                                 <div className='' style={{ 'textAlign': 'left', 'font': 'normal normal bold 20px/24px Lato' }}>
                                     <div className="form-group mt-3">
-                                        <label htmlFor="exampleInputEmail1" className='m-2'>Email ID<span className='required'>*</span></label>
+                                        <label htmlFor="exampleInputEmail1" className='m-2'>Email ID 123<span className='required'>*</span></label>
                                         <input type="email" className="signininput form-control" id="exampleInputEmail1" placeholder="Enter ID"
                                         />
                                     </div>
