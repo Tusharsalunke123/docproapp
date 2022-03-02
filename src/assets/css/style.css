@@ -1,0 +1,21 @@
+.signin{
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+
+}
+.signininput{
+    background: #EFF8FF 0% 0% no-repeat padding-box;
+    border: 1px solid #0078D4;
+    border-radius: 8px;
+    height: 56px;   
+}
+
+.box{
+    background-color: #fff;
+    padding: 100px 30px;
+}
+.required{
+    color: red;
+}
